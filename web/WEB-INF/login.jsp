@@ -18,5 +18,6 @@
         Password: <input type="password" name="password"/><br/>
         <button type="submit" name="login" value="Login">Login</button>
         </form>
+        ${message}
     </body>
 </html>
